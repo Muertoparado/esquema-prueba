@@ -1,0 +1,29 @@
+{
+  "productos": [
+    {
+      "id": 2,
+      "name": "cambio",
+      "costo": "4444",
+      "inventario": "222"
+    },
+    {
+      "id": 5,
+      "name": "asas",
+      "costo": "222",
+      "inventario": "333"
+    },
+    {
+      "id": 7,
+      "name": "arroz",
+      "costo": "200",
+      "inventario": "2"
+    },
+    {
+      "id": 8,
+      "name": "qqqq",
+      "costo": "2222",
+      "inventario": "333"
+    }
+  ],
+  "usuarios": []
+}
