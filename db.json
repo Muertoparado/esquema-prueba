@@ -7,12 +7,6 @@
       "inventario": "222"
     },
     {
-      "id": 5,
-      "name": "asas",
-      "costo": "222",
-      "inventario": "333"
-    },
-    {
       "id": 7,
       "name": "arroz",
       "costo": "200",
@@ -23,7 +17,27 @@
       "name": "qqqq",
       "costo": "2222",
       "inventario": "333"
+    },
+    {
+      "id": 9,
+      "name": "papa",
+      "costo": "4000",
+      "inventario": "3"
+    },
+    {
+      "id": 10,
+      "name": "comp nuevo",
+      "costo": "23",
+      "inventario": "1"
     }
   ],
-  "usuarios": []
+  "usuarios": [
+    {
+      "id": 1,
+      "name": "zulay"
+    },
+    {
+      "id": 2
+    }
+  ]
 }
