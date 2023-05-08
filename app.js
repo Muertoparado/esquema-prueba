@@ -3,10 +3,16 @@ import "./components/div-usuarios.js"
 import "./api/render.js"
 
 
-const modal = document.querySelector("#modal");
-const mymodal = document.querySelector("#mymodal");
 
-function openModal() {
+var myModal = document.getElementById('myModal')
+var myInput = document.getElementById('myInput')
+
+myModal.addEventListener('click',  ()=> {
+  myInput.focus()
+})
+
+
+/* function openModal() {
     mymodal.classList.add('show');
     mymodal.style.display = 'block';
     backdrop = document.createElement('div');
@@ -25,7 +31,7 @@ function openModal() {
   modal.addEventListener("click", openModal);
   cerrarmodalx.addEventListener("click", closeModal);
   cerrarmodal.addEventListener("click", closeModal);
-
+ */
 /* 
 modal.addEventListener("click",()=>{
 

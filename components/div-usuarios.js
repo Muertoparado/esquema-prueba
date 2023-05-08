@@ -60,4 +60,5 @@ export default class registroUsuario extends HTMLElement{
     } 
 }
 
-customElements.define(config.name(registroUsuario.url), registroUsuario);
+customElements.define(config.name(registroUsuario.url), registroUsuario); 
+

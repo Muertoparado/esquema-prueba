@@ -29,15 +29,24 @@
       "name": "comp nuevo",
       "costo": "23",
       "inventario": "1"
+    },
+    {
+      "id": 11,
+      "name": "prod 2",
+      "costo": "222222",
+      "inventario": "12"
+    },
+    {
+      "id": 13,
+      "name": "",
+      "costo": "",
+      "inventario": ""
     }
   ],
   "usuarios": [
     {
       "id": 1,
-      "name": "zulay"
-    },
-    {
-      "id": 2
+      "name": "n1"
     }
   ]
 }

@@ -1,5 +1,5 @@
 let headers = new Headers({"Content-Type": "application/json"});
-let puerto= 4005;
+let puerto = 4005;
 //json-server --watch db.json -p 4005 
 // *codigo activacion server* 
 

@@ -22,14 +22,12 @@ let puerto = 4005;
         card.innerHTML = `
     
     <div class="bg-warning text-center ">
-        <input type="checkbox" id="custom-checkbox" class="custom-checkbox" />
-      <label for="custom-checkbox" class="custom-label">
           <div class="card">
             <h1>${data[i].name}</h1>
             <p>id: ${data[i].id}</p>
             <h3>costo: $${data[i].costo}</h3>
+            <button>Comprar</button>    
           </div>
-       </label>
     </div>
        `;
        results.appendChild(card);
